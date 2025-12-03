@@ -1,0 +1,14 @@
+/home/trinity/repos/Learning/Grader/bin/Debug/net9.0/Grader
+/home/trinity/repos/Learning/Grader/bin/Debug/net9.0/Grader.deps.json
+/home/trinity/repos/Learning/Grader/bin/Debug/net9.0/Grader.runtimeconfig.json
+/home/trinity/repos/Learning/Grader/bin/Debug/net9.0/Grader.dll
+/home/trinity/repos/Learning/Grader/bin/Debug/net9.0/Grader.pdb
+/home/trinity/repos/Learning/Grader/obj/Debug/net9.0/Grader.GeneratedMSBuildEditorConfig.editorconfig
+/home/trinity/repos/Learning/Grader/obj/Debug/net9.0/Grader.AssemblyInfoInputs.cache
+/home/trinity/repos/Learning/Grader/obj/Debug/net9.0/Grader.AssemblyInfo.cs
+/home/trinity/repos/Learning/Grader/obj/Debug/net9.0/Grader.csproj.CoreCompileInputs.cache
+/home/trinity/repos/Learning/Grader/obj/Debug/net9.0/Grader.dll
+/home/trinity/repos/Learning/Grader/obj/Debug/net9.0/refint/Grader.dll
+/home/trinity/repos/Learning/Grader/obj/Debug/net9.0/Grader.pdb
+/home/trinity/repos/Learning/Grader/obj/Debug/net9.0/Grader.genruntimeconfig.cache
+/home/trinity/repos/Learning/Grader/obj/Debug/net9.0/ref/Grader.dll
