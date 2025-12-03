@@ -12,3 +12,4 @@
 /home/trinity/repos/Learning/Grader/obj/Debug/net9.0/Grader.pdb
 /home/trinity/repos/Learning/Grader/obj/Debug/net9.0/Grader.genruntimeconfig.cache
 /home/trinity/repos/Learning/Grader/obj/Debug/net9.0/ref/Grader.dll
+/home/trinity/repos/Learning/Grader/obj/Debug/net9.0/Grader.sourcelink.json
