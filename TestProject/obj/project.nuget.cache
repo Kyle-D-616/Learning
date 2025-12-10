@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kR/qOR4K5aE=",
+  "success": true,
+  "projectFilePath": "/home/trinity/repos/Learning/TestProject/TestProject.csproj",
+  "expectedPackageFiles": [
+    "/home/trinity/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.9/microsoft.aspnetcore.app.ref.9.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
